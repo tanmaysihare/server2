@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "root",
-    "password": "sumansihare",
-    "database": "expensetrackerdb",
-    "host": "localhost",
+    "username": "admin",
+    "password": "12345678",
+    "database": "database-1",
+    "host": "database-1.cna2q86qc0wm.ap-south-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
-    "password": "sumansihare",
-    "database": "expensetrackerdb",
-    "host": "localhost",
+    "username": "admin",
+    "password": "12345678",
+    "database": "database-1",
+    "host": "database-1.cna2q86qc0wm.ap-south-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": "sumansihare",
-    "database": "expensetrackerdb",
-    "host": "localhost",
+    "username": "admin",
+    "password": "12345678",
+    "database": "database-1",
+    "host": "database-1.cna2q86qc0wm.ap-south-1.rds.amazonaws.com",
     "dialect": "mysql"
   }
 }
