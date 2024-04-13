@@ -2,21 +2,21 @@
   "development": {
     "username": "admin",
     "password": "12345678",
-    "database": "database-1",
+    "database": "expensedb",
     "host": "database-1.cna2q86qc0wm.ap-south-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {
     "username": "admin",
     "password": "12345678",
-    "database": "database-1",
+    "database": "expensedb",
     "host": "database-1.cna2q86qc0wm.ap-south-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "production": {
     "username": "admin",
     "password": "12345678",
-    "database": "database-1",
+    "database": "expensedb",
     "host": "database-1.cna2q86qc0wm.ap-south-1.rds.amazonaws.com",
     "dialect": "mysql"
   }
